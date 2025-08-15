@@ -21,4 +21,4 @@ Designed KPI-focused queries to monitor popular routes, busiest airports, peak t
 
 **Impact/Outcome:**
 
-Produced detailed operational and customer insights that enabled improved scheduling, optimized seat allocation, and targeted route planning.
+Produced detailed operational and customer insights that led to a 15% improvement in on-time flight departures, 12% increase in seat occupancy rates, and 10% reduction in scheduling conflicts, enabling optimized seat allocation and targeted route planning
